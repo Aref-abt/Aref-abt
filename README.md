@@ -3,13 +3,13 @@
 **Software Engineer | Web Developer**
 
 ### ⚡ Most Used Languages
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/JavaScript-55%25-000000?style=for-the-badge&logo=javascript&logoColor=green" style="border-radius: 12px;" />
-    <img src="https://img.shields.io/badge/Vue.js-55%25-000000?style=for-the-badge&logo=vue.js&logoColor=green" style="border-radius: 12px;" />
-    <img src="https://img.shields.io/badge/Dart-15%25-000000?style=for-the-badge&logo=dart&logoColor=green" style="border-radius: 12px;" />
-    <img src="https://img.shields.io/badge/Java-10%25-000000?style=for-the-badge&logo=java&logoColor=green" style="border-radius: 12px;" />
-    <img src="https://img.shields.io/badge/C%23-20%25-000000?style=for-the-badge&logo=c-sharp&logoColor=green" style="border-radius: 12px;" />
-</div>
+
+| Language     | Usage   |
+|--------------|---------|
+| 🟡 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | █████████████████████████ 55% |
+| 🔵 ![C#](https://img.icons8.com/ios/50/000000/c-sharp-logo.png) C#             | ██████████████ 20%                 |
+| 🟣 ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart          | ██████████ 15%             |
+| 🟢 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java      | ██████ 10%                    |
 
 ---
 
