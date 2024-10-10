@@ -1,21 +1,4 @@
-# <h1 align="center">
-  <a href="#" style="text-decoration: none;">
-    <span style="font-size: 3em; display: inline-block; border-right: 0.15em solid black; white-space: nowrap; overflow: hidden; animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;">
-      Aref Abou Trabi
-    </span>
-  </a>
-</h1>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: black; }
-}
-</style>
+# Hi there, I'm Aref Abou Trabi 👋
 
 **Software Engineer | Web Developer**
 
