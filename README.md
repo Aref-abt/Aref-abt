@@ -1,4 +1,21 @@
-# Hi there, I'm Aref Abou Trabi 👋
+# <h1 align="center">
+  <a href="#" style="text-decoration: none;">
+    <span style="font-size: 3em; display: inline-block; border-right: 0.15em solid black; white-space: nowrap; overflow: hidden; animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;">
+      Aref Abou Trabi
+    </span>
+  </a>
+</h1>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+</style>
 
 **Software Engineer | Web Developer**
 
@@ -35,9 +52,6 @@
 ![Parsley.js](https://img.shields.io/badge/Parsley.js-1BC46B?style=for-the-badge&logo=parsley&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-🚀 **Experience**  
-- Software Engineer at Aspire Software  
-- Working with All Trust Networks on payment solutions
 
 🌍 **Connect with me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aref-abou-trabi-6a73aa181/)
