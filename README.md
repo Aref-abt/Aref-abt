@@ -30,7 +30,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aref-abt&show_icons=true&theme=radical&include_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aref-abt&show_icons=true&theme=radical&include_private=true&rand=123)
+
 # [![trophy](https://github-profile-trophy.vercel.app/?username=aref-abt&rank=S,AAA,AA,A&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
