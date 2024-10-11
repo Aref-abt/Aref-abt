@@ -1,4 +1,5 @@
 # Hi there, I'm Aref Abou Trabi 👋
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aref-abt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -33,7 +34,7 @@
 
 
 # [![trophy](https://github-profile-trophy.vercel.app/?username=aref-abt&rank=S,AAA,AA,A&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
+![GitHub stars](https://img.shields.io/github/stars/Aref-abt?style=social)
 
 ## 🌍 **Connect with me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aref-abou-trabi-6a73aa181/)
