@@ -32,7 +32,6 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 # [![trophy](https://github-profile-trophy.vercel.app/?username=aref-abt&rank=S,AAA,AA,A&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub stars](https://img.shields.io/github/stars/Aref-abt?style=social)
 
