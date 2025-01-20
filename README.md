@@ -4,7 +4,7 @@
 
 
 ---
-### Libraries/Frameworks usage
+### Libraries/Frameworks Usage
 ![Vue.js](https://img.shields.io/badge/Vue.js-67%25-000000?style=for-the-badge&logo=vue.js&logoColor=green&label=Vue.js&logoWidth=40&color=greenk&labelColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-13%25-000000?style=for-the-badge&logo=jquery&logoColor=green&label=jQuery&logoWidth=40&color=greenk&labelColor=black)
 ![Axios](https://img.shields.io/badge/Axios-11%25-000000?style=for-the-badge&logo=axios&logoColor=green&label=Axios&logoWidth=40&color=greenk&labelColor=black)
