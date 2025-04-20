@@ -10,9 +10,6 @@
 ![Axios](https://img.shields.io/badge/Axios-11%25-000000?style=for-the-badge&logo=axios&logoColor=green&label=Axios&logoWidth=40&color=greenk&labelColor=black)
 ![.NET](https://img.shields.io/badge/.NET-9%25-000000?style=for-the-badge&logo=dotnet&logoColor=green&label=.NET&logoWidth=40&color=greenk&labelColor=black)
 
-### GitHub Rank Badge
-
-[![Aref Abou Trabi's GitHub rank in Lebanon](https://committers.top/lebanon_private/aref-abt.svg)](https://committers.top/lebanon_private)
 
 
 ## 💻 **Languages & Tools**  
