@@ -39,7 +39,7 @@
 ## Check Out My Business!
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devitty.com)
 
-## 🌍 **Reach Out!!**  
+## 🌍 **Reach Out!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aref-abou-trabi-6a73aa181/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aref.aboutrabi7@gmail.com)
 
