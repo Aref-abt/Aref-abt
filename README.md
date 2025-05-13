@@ -10,6 +10,9 @@
 ![Axios](https://img.shields.io/badge/Axios-11%25-000000?style=for-the-badge&logo=axios&logoColor=green&label=Axios&logoWidth=40&color=greenk&labelColor=black)
 ![.NET](https://img.shields.io/badge/.NET-9%25-000000?style=for-the-badge&logo=dotnet&logoColor=green&label=.NET&logoWidth=40&color=greenk&labelColor=black)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aref-abt&layout=compact)
+
+
 
 
 ## 💻 **Languages & Tools**  
@@ -32,6 +35,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 # [![trophy](https://github-profile-trophy.vercel.app/?username=aref-abt&rank=SSS,SS,S,AAA,AA,A&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub stars](https://img.shields.io/github/stars/Aref-abt?style=social)
