@@ -10,6 +10,7 @@
 ![Axios](https://img.shields.io/badge/Axios-11%25-000000?style=for-the-badge&logo=axios&logoColor=green&label=Axios&logoWidth=40&color=greenk&labelColor=black)
 ![.NET](https://img.shields.io/badge/.NET-9%25-000000?style=for-the-badge&logo=dotnet&logoColor=green&label=.NET&logoWidth=40&color=greenk&labelColor=black)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aref-abt&layout=compact&theme=radical&count_private=true)
 
 ## 💻 **Languages & Tools**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
