@@ -12,7 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aref-abt&layout=compact&theme=radical)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mohammadsoleiman&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
 ## 💻 **Languages & Tools**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
